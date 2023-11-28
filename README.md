@@ -1,6 +1,8 @@
 # Mariana Faé Mollo
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-fae-mollo/)
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:marianafmollo@hotmail.com)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</div>
 
 
 ### Objetivo: 👩‍💻 Dev Front-End
@@ -14,13 +16,26 @@
 - Excel, Senac Águas de São Pedro
 - Negociação com influência - Conquer
 
-### 💻 Tecnologias
-| Linguagem| Nível |
-| ----------- | ----------- |
-| JavaScript | ⭐ |
-| CSS | ⭐ 
+### Tecnologias
+<div align="left">
 
-<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+<p align="left"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoTheCake&show_icons=true&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTheCake&show_icons=true&layout=compact" />
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DoTheCake/DoTheCake/output/snake.svg" alt="Snake animation" />
+
+###
