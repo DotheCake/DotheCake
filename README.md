@@ -33,9 +33,3 @@
 </p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DoTheCake/DoTheCake/output/snake.svg" alt="Snake animation" />
-
-###
