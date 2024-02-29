@@ -5,7 +5,6 @@
 </div>
 
 
-### Objetivo: 👩‍💻 Dev Front-End
 
 ## 📚Escolaridade
 - Superior completo em Hotelaria, Senac Águas de São Pedro [2019 - 2020]
@@ -15,6 +14,7 @@
 - Recreação, Senac Águas de São Pedro
 - Excel, Senac Águas de São Pedro
 - Negociação com influência - Conquer
+- Python I - Senac Americana
 
 ### Tecnologias
 <div align="left">
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python logo"/>
+            
 </div>
 
 ###
